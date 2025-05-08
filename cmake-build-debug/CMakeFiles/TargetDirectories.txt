@@ -1,0 +1,3 @@
+C:/Users/David/OneDrive/Desktop/CLionProjects/Tarea6ALT/cmake-build-debug/CMakeFiles/Tarea6ALT.dir
+C:/Users/David/OneDrive/Desktop/CLionProjects/Tarea6ALT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/David/OneDrive/Desktop/CLionProjects/Tarea6ALT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
